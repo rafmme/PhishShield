@@ -80,6 +80,9 @@ OR Open:
 brave://extensions/
 ```
 
+
+![Launch Chrome / Brave Web Browser and Open Chrome Extensions Page.](images/i1.png)
+
 ---
 
 #### Enable Developer Mode
@@ -110,9 +113,13 @@ chrome_extension/
 
 The extension should now appear in Chrome.
 
+![Select the chrome_extension project folder.](images/i2.png)
+
 ---
 
 ### Test The Extension
+
+![The extension should now appear in Chrome.](images/i3.png)
 
 #### Legitimate Websites
 
